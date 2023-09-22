@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.684" height="28.414" viewBox="0 0 30.684 28.414">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #525e66;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="Icon_feather-wifi-off" data-name="Icon feather-wifi-off" transform="translate(0.092 -1.169)">
+    <path id="Path_16149" data-name="Path 16149" class="cls-1" d="M3.633,3.291l23.7,24.171"/>
+    <path id="Path_16150" data-name="Path 16150" class="cls-1" d="M25.08,16.59a13.675,13.675,0,0,1,2.85,1.862" transform="translate(-3.93 -2.515)"/>
+    <path id="Path_16151" data-name="Path 16151" class="cls-1" d="M7.5,18.228a13.675,13.675,0,0,1,6.462-2.988" transform="translate(-1 -2.29)"/>
+    <path id="Path_16152" data-name="Path 16152" class="cls-1" d="M16.065,7.562A20,20,0,0,1,30.9,12.5" transform="translate(-2.428 -1)"/>
+    <path id="Path_16153" data-name="Path 16153" class="cls-1" d="M2.13,12.78a19.888,19.888,0,0,1,5.875-3.6" transform="translate(-0.105 -1.28)"/>
+    <path id="Path_16154" data-name="Path 16154" class="cls-1" d="M12.795,23.888a7.5,7.5,0,0,1,8.688,0" transform="translate(-1.882 -3.5)"/>
+    <path id="Path_16155" data-name="Path 16155" class="cls-1" d="M18,30h0" transform="translate(-2.75 -4.75)"/>
+  </g>
+</svg>

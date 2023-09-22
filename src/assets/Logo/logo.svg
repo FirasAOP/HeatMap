@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="211.412" height="49" viewBox="0 0 211.412 49">
+  <g id="Group_4883" data-name="Group 4883" transform="translate(-285.5 -435.114)">
+    <path id="Subtraction_5" data-name="Subtraction 5" d="M20.884,24.08a1.62,1.62,0,0,1-.969-.305A1.511,1.511,0,0,1,19.344,23L14.622,7.314l-1.74,6.607a1.412,1.412,0,0,1-.559.811,1.628,1.628,0,0,1-.982.318H3.113l-1.618-1.4A10.184,10.184,0,0,1,0,12.04H10.1L12.98,1.129a1.432,1.432,0,0,1,.547-.811A1.579,1.579,0,0,1,14.5,0a1.673,1.673,0,0,1,.982.306,1.486,1.486,0,0,1,.584.776l4.871,16.131L24.14,7.1a1.458,1.458,0,0,1,1.392-1.082,1.532,1.532,0,0,1,.158-.008,1.565,1.565,0,0,1,.749.2,1.472,1.472,0,0,1,.634.635l2.759,5.2h8.71a10.2,10.2,0,0,1-1.5,1.606l-1.618,1.4H28.837a1.506,1.506,0,0,1-1.417-.822l-1.392-2.634L22.4,23a1.511,1.511,0,0,1-.572.776A1.581,1.581,0,0,1,20.884,24.08Z" transform="translate(458.37 449.545)" fill="#a61d33"/>
+    <text id="PATIENTS" transform="translate(305.449 472.114)" fill="#525e66" font-size="35" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Ha</tspan><tspan y="0" fill="#3d3d3d" font-family="Poppins-Medium, Poppins" font-weight="500">Guide</tspan></text>
+    <line id="Line_339" data-name="Line 339" x2="12.958" transform="translate(287 460.269)" fill="none" stroke="#a61d33" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>

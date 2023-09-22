@@ -1,0 +1,32 @@
+.x-axis {
+  position: relative;
+  width: 100%;
+  height: 20px;
+  margin-top: 2vh;
+}
+
+.x-axis-element {
+  position: absolute;
+  bottom: 0;
+  height: 100%;
+  width: 1px;
+  background-color: black;
+}
+.y-axis-right {
+  border-right: 1px solid rgba(0, 0, 0, 0.12);
+}
+.y-axis-left {
+  border-left: 1px solid rgba(0, 0, 0, 0.12);
+}
+.y-axis-element {
+  background-color: transparent;
+  margin: 0px 2px;
+  height: 8px;
+  width: 4px;
+}
+.y-axis-element-right {
+  text-align: right;
+}
+.y-axis-element-left {
+  text-align: left;
+}
